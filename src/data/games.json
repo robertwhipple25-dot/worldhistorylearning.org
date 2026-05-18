@@ -1,0 +1,150 @@
+[
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl: Strategy Simulator",
+    "url": "https://gnhustgames.github.io/retro-bowl/",
+    "image": "https://images.crazygames.com/games/retro-bowl/cover-1645003666275.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Strategic Logic"
+  },
+  {
+    "id": "basketball-random",
+    "title": "Basketball Random Physics Test",
+    "url": "https://gnhustgames.github.io/basketball-random/",
+    "image": "https://images.crazygames.com/games/basketball-random/cover-1584618790097.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Kinetic Physics"
+  },
+  {
+    "id": "space-waves",
+    "title": "Space Waves: Waveform Analysis",
+    "url": "https://gnhustgames.github.io/space-waves/",
+    "image": "https://images.crazygames.com/space-waves/cover-1707839352227.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Signal Processing"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash: Spatial Awareness",
+    "url": "https://gnhustgames.github.io/geometry-dash/",
+    "image": "https://images.crazygames.com/games/geometry-dash-online/cover-1583234676527.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Geometry"
+  },
+  {
+    "id": "chicken-combat-strike",
+    "title": "Chicken CS: Tactical Ethics",
+    "url": "https://www.crazygames.com/embed/chicken-combat-strike",
+    "image": "https://images.crazygames.com/games/chicken-combat-strike/cover-1584618776856.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Strategic Ethics"
+  },
+  {
+    "id": "monkey-mart",
+    "title": "Monkey Mart: Macroeconomics",
+    "url": "https://gnhustgames.github.io/monkey-mart/",
+    "image": "https://images.crazygames.com/games/monkey-mart/cover-1667986064567.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Economics"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Runner: Urban Reflexes",
+    "url": "https://gnhustgames.github.io/subway-surfers/",
+    "image": "https://images.crazygames.com/games/subway-surfers/cover-1667986064567.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Urban Studies"
+  },
+  {
+    "id": "slope",
+    "title": "Slope: Gravitational Analysis",
+    "url": "https://gnhustgames.github.io/slope/",
+    "image": "https://images.crazygames.com/games/slope/cover-1647426315518.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Physics"
+  },
+  {
+    "id": "moto-x3m",
+    "title": "Moto X3M: Equilibrium Test",
+    "url": "https://gnhustgames.github.io/moto-x3m/",
+    "image": "https://images.crazygames.com/games/moto-x3m/cover-1583234907157.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Mechanics"
+  },
+  {
+    "id": "1v1-lol",
+    "title": "1v1.LOL: Structural Design",
+    "url": "https://gnhustgames.github.io/1v1-lol/",
+    "image": "https://images.crazygames.com/games/1v1-lol/cover-1602685413340.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Engineering"
+  },
+  {
+    "id": "drift-boss",
+    "title": "Drift Boss: Angular Momentum",
+    "url": "https://gnhustgames.github.io/drift-boss/",
+    "image": "https://images.crazygames.com/games/drift-boss/cover-1583234479904.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Dynamics"
+  },
+  {
+    "id": "suika-game",
+    "title": "Suika: Fluid Volumetrics",
+    "url": "https://gnhustgames.github.io/suika/",
+    "image": "https://images.crazygames.com/games/suika-game/cover-1698244191924.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Volume Science"
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife: Life Path Simulation",
+    "url": "https://www.crazygames.com/embed/bitlife-life-simulator",
+    "image": "https://images.crazygames.com/games/bitlife-life-simulator/cover-1681298495034.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Sociology"
+  },
+  {
+    "id": "vex-7",
+    "title": "Vex 7: Obstacle Traversal",
+    "url": "https://gnhustgames.github.io/vex-7/",
+    "image": "https://images.crazygames.com/games/vex-7/cover-1665487661559.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Spatial Logic"
+  },
+  {
+    "id": "ovo",
+    "title": "OvO: Momentum Studies",
+    "url": "https://gnhustgames.github.io/ovo/",
+    "image": "https://images.crazygames.com/games/ovo/cover-1598436577543.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Kinematics"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush: Foveal Tension",
+    "url": "https://gnhustgames.github.io/tunnel-rush/",
+    "image": "https://images.crazygames.com/games/tunnel-rush/cover-1585233660520.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Optics"
+  },
+  {
+    "id": "temple-run-2",
+    "title": "Temple Run: Ancient Logistics",
+    "url": "https://gnhustgames.github.io/temple-run-2/",
+    "image": "https://images.crazygames.com/games/temple-run-2/cover-1647426188417.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Archeology"
+  },
+  {
+    "id": "fnaf-web",
+    "title": "Five Nights: Vigilance Training",
+    "url": "https://www.crazygames.com/embed/five-nights-at-freddys-web",
+    "image": "https://images.crazygames.com/games/five-nights-at-freddys-web/cover-1584618776856.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Psychology"
+  },
+  {
+    "id": "soccer-random",
+    "title": "Soccer Random: Probabilistic Sport",
+    "url": "https://gnhustgames.github.io/soccer-random/",
+    "image": "https://images.crazygames.com/games/soccer-random/cover-1588673722137.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Probability"
+  },
+  {
+    "id": "run-3",
+    "title": "Run 3: Geometric Pathfinding",
+    "url": "https://gnhustgames.github.io/run-3/",
+    "image": "https://images.crazygames.com/games/run-3/cover-1583233876648.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Topography"
+  },
+  {
+    "id": "bob-robber-2",
+    "title": "Bob Robber: Stealth Mechanics",
+    "url": "https://gnhustgames.github.io/bob-the-robber-2/",
+    "image": "https://images.crazygames.com/games/bob-the-robber-2/cover-1583233876648.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=400&h=225&fit=crop",
+    "category": "Behavioral Studies"
+  }
+]
+

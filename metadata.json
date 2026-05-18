@@ -1,0 +1,6 @@
+{
+  "name": "World History Learning Portal",
+  "description": "An interactive digital history resource featuring educational simulations and historical arcade explorations. Optimzed for browser performance.",
+  "requestFramePermissions": ["fullscreen"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
