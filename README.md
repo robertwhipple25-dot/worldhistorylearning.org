@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# World History Learning Alliance Portal
 
-# Run and deploy your AI Studio app
+An interactive digital history resource featuring educational simulations and historical arcade explorations.
 
-This contains everything you need to run your app locally.
+## 🚀 Deployment Instructions for GitHub Pages
 
-View your app in AI Studio: https://ai.studio/apps/d01345ac-51d1-455e-b7dd-64c3ea9b962c
+To fix the "There isn't a GitHub Pages site here" error, follow these steps:
 
-## Run Locally
+1.  **Push to GitHub**: Ensure all files (especially `package.json`, `vite.config.js`, and `.github/workflows/deploy.yml`) are pushed to your repository.
+2.  **Enable GitHub Pages**:
+    *   Go to your repository on GitHub.
+    *   Click on **Settings** (top tab).
+    *   Click on **Pages** (left sidebar).
+    *   Under **Build and deployment** > **Source**, select **GitHub Actions**.
+3.  **Automatic Build**: Once selected, the workflow I created will automatically build and deploy your site whenever you push changes to the `main` branch.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛡️ Stealth Features
+*   **Tab Cloaking**: The portal automatically changes its title to "World History - Digital Textbook" when active.
+*   **Stealth Mode**: Use the "Eye Off" icon in the module player to launch simulations in an `about:blank` window, which bypasses some school monitoring software.
